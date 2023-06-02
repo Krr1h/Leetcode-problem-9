@@ -1,0 +1,13 @@
+Here
+We take input from user.
+We take those values in a list.
+We create another list by literally reversing it.
+We equate them and judge if the number is palindrome or not.
+
+
+Trials - 11
+Forgot:
+ - splitting a integer converted to string in a list.
+
+
+Learned - New with Leetcode's interface as i created the code on VS code as a normal input one and faced a bit of a problem with interchanging both.
